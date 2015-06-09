@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Snippets
- * Plugin URI: http://www.ludwig-gramberg.de/
+ * Plugin URI: https://github.com/ludwig-gramberg/wp-snippets
  * Description: Text/HTML Snippets
  * Version: 0.1
  * Author: Ludwig Gramberg
